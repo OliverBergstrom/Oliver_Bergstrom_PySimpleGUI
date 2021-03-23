@@ -1,0 +1,12 @@
+* Meny (att input = input("Meny:")fungerar)
+    göra en insättning
+        tar in ett tal
+        spara ner det till en fil
+    kolla om det sparas till en fil
+        gå in och kolla manuellt i filen, bara öppna den
+    gör ett uttag
+        ta bort från filen
+        kolla om det tas bort från filen
+    avsluta loopen
+        if exit
+    avsluta programmet
